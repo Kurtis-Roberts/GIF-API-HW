@@ -11,7 +11,7 @@
 }
 
 html {
-    background-image: url("/assets/Images/animal-img.jpg");
+    background-image: url("assets/Images/animal-img.jpg");
     background-position: fixed;
     background-size: cover;
     height: 100%;
