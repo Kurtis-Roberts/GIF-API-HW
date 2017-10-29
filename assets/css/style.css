@@ -16,3 +16,7 @@ html {
     background-size: cover;
     height: 100%;
 }
+
+.card .card-content {
+    background-color: #D2B48C;
+}
