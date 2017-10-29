@@ -4,3 +4,15 @@
     margin-top: 3%;
     width: 100%;
 }
+
+.ratings {
+    color: #26a69a;
+    font-size: 30px;
+}
+
+html {
+    background-image: url("/assets/Images/animal-img.jpg");
+    background-position: fixed;
+    background-size: cover;
+    height: 100%;
+}
